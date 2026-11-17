@@ -1,0 +1,10 @@
+{
+  "name": "keyhold-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Keyhold web admin — a product of Nexus Tech Labs",
+  "scripts": {
+    "start": "npx serve . -l 5173"
+  }
+}
